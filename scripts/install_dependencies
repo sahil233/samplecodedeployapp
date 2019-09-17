@@ -1,5 +1,3 @@
 #!/bin/bash
-yum install -y httpd
-mv /home/ec2-user/samplecodedeployapp/scripts/a.txt /home/ec2-user/samplecodedeployapp/scripts/b.txt
-
+yum install httpd
 
