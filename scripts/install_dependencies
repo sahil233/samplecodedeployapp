@@ -1,4 +1,5 @@
 #!/bin/bash
 yum install -y httpd
-touch a.txt
+mv /home/ec2-user/samplecodedeployapp/scripts/a.txt /home/ec2-user/samplecodedeployapp/scripts/b.txt
+
 
