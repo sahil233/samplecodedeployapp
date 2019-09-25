@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Things have changed. It's Rickdiculous."
+echo "Things had changed."
 service httpd stop
